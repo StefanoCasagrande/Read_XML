@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Read XML</string>
+    <string name="Stock_Exchange">Stock</string>
+    <string name="Product">Product</string>
+    <string name="Last_Update">Last Update on</string>
+    <string name="Currency">Currency</string>
+    <string name="UpdateInfo">Update Stock Info</string>
+    <string name="No_Signal">This operation cannot be done offline</string>
+    <string name="Download_Error">Error in download phase</string>
+    <string name="gram">Gram</string>
+
+</resources>
